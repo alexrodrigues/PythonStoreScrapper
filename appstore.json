@@ -1,227 +1,227 @@
 [
     {
-        "title": "Muito básico",
-        "isEdited": false,
-        "review": "O extrato, retiradas, cancelamentos de operações exigem acesso ao site ou, ainda pior, telefonar para a XP. Falta muito amadurecimento",
         "rating": 5,
-        "date": "2018-11-17 15:23:46",
-        "userName": "Reinstalei e nada",
         "developerResponse": {
             "id": 6041327,
             "body": "Olá, você pode encontrar extrato e retiradas clicando em \"...\". Já estamos trabalhando para implementar cancelamentos de ordens e em breve também será possível acessar pelo app. Fique de olho nas atualizações e volte a nos avaliar sempre que puder.",
             "modified": "2018-11-21T12:33:17Z"
-        }
+        },
+        "isEdited": false,
+        "userName": "Reinstalei e nada",
+        "review": "O extrato, retiradas, cancelamentos de operações exigem acesso ao site ou, ainda pior, telefonar para a XP. Falta muito amadurecimento",
+        "date": "2018-11-17 15:23:46",
+        "title": "Muito básico"
     },
     {
-        "title": "Intuitivo!",
+        "rating": 5,
         "isEdited": false,
+        "userName": "Alcíone",
         "review": "Muito bom o novo design, mais fácil trabalhar porque tudo ficou mais intuitivo no app.",
-        "rating": 5,
         "date": "2020-08-09 02:50:12",
-        "userName": "Alcíone"
+        "title": "Intuitivo!"
     },
     {
-        "title": "Parece ser ótimo",
-        "isEdited": false,
-        "review": "Tem algum valor mínimo para transferência, não consegui transferir nenhum valor ainda !",
         "rating": 5,
-        "date": "2021-01-31 13:32:37",
-        "userName": "Gulstavo",
         "developerResponse": {
             "id": 20867574,
             "body": "Olá! Não temos nenhum valor mínimo para transferência. Para entendermos melhor o que está acontecendo, você poderia nos enviar um e-mail através deste link: https://www.xpi.com.br/atendimento/, ou se preferir ligar para 0800-772-0202 por gentileza?\r\n\r\n",
             "modified": "2021-02-05T01:22:59Z"
-        }
+        },
+        "isEdited": false,
+        "userName": "Gulstavo",
+        "review": "Tem algum valor mínimo para transferência, não consegui transferir nenhum valor ainda !",
+        "date": "2021-01-31 13:32:37",
+        "title": "Parece ser ótimo"
     },
     {
-        "title": "O saldo não atualiza na hora",
-        "isEdited": false,
-        "review": "O saldo só atualiza de um dia para o outro vc não tem controle de gastos",
         "rating": 1,
-        "date": "2020-08-04 15:39:52",
-        "userName": "tattoomawh",
         "developerResponse": {
             "id": 17400661,
             "body": "Olá tattoomawh, tudo bem? Estamos atuando para deixar a atualização do saldo cada vez mais rápida a cada movimentação realizada, nosso time já esta tratando desse problema. \n\nEm breve teremos novidades, sua opinião é muito importante para nós.\n\nTeam APP XP",
             "modified": "2020-08-20T12:32:37Z"
-        }
+        },
+        "isEdited": false,
+        "userName": "tattoomawh",
+        "review": "O saldo só atualiza de um dia para o outro vc não tem controle de gastos",
+        "date": "2020-08-04 15:39:52",
+        "title": "O saldo não atualiza na hora"
     },
     {
-        "title": "Falta muita informação",
-        "isEdited": true,
-        "review": "Todos tipos de operações deveriam ter o básico:\n* valor investido \n* valor atual\n* rendimento valor e % do ativo no mês, ano, desde início, etc. \nResumo dos proventos recebidos por ativo,\nOutro ponto o delay da rentabilidade é de 4 dias, não faz sentido isso na XP desse tamanho.",
         "rating": 1,
-        "date": "2020-07-28 11:25:31",
-        "userName": "jfdsuhigdhh",
         "developerResponse": {
             "id": 12089039,
             "body": "Olá jfdsuhigdhh, tudo bem?\n\nAgradecemos pelo envio de seu comentário! Constantemente estamos ouvindo nossos clientes para os futuros updates, e tanto a parte de Renda Variável quanto a evolução patrimonial por produto e segmentação, estão sendo desenvolvidos para que o lançamento ocorra o mais breve possível para todos os clientes. Conte conosco! \n\nAtt. Equipe App XP Investimentos.",
             "modified": "2019-11-27T17:12:20Z"
-        }
-    },
-    {
-        "title": "melhor aplicativo da melhor corretora",
-        "isEdited": false,
-        "review": "fácil, prático e intuitivo",
-        "rating": 5,
-        "date": "2020-06-06 17:08:56",
-        "userName": "silviovet"
-    },
-    {
-        "title": "NOVA ATUALIZAÇÃO",
+        },
         "isEdited": true,
-        "review": "MANO DO CÉU A ÚLTIMA ATUALIZAÇÃO FICOU ANINAL!!!! Perda e lucros on-line pqp MUUTOOOO BOM!!!",
+        "userName": "jfdsuhigdhh",
+        "review": "Todos tipos de operações deveriam ter o básico:\n* valor investido \n* valor atual\n* rendimento valor e % do ativo no mês, ano, desde início, etc. \nResumo dos proventos recebidos por ativo,\nOutro ponto o delay da rentabilidade é de 4 dias, não faz sentido isso na XP desse tamanho.",
+        "date": "2020-07-28 11:25:31",
+        "title": "Falta muita informação"
+    },
+    {
         "rating": 5,
-        "date": "2021-03-01 19:35:56",
-        "userName": "nsihwgwwkkxnxkdkcmjens",
+        "isEdited": false,
+        "userName": "silviovet",
+        "review": "fácil, prático e intuitivo",
+        "date": "2020-06-06 17:08:56",
+        "title": "melhor aplicativo da melhor corretora"
+    },
+    {
+        "rating": 5,
         "developerResponse": {
             "id": 19806624,
             "body": "Que ótimo que gostou, ficamos muito felizes com seu comentário, estamos sempre trabalhando em melhorias para nossos clientes. Conte sempre com a gente 💛🖤🚀",
             "modified": "2020-12-16T13:31:54Z"
-        }
-    },
-    {
-        "title": "Excelente!",
-        "isEdited": false,
-        "review": "Muito bom mesmo.",
-        "rating": 5,
-        "date": "2021-03-01 19:19:52",
-        "userName": "hermanschlickmann"
-    },
-    {
-        "title": "Dashboard dos investidores",
-        "isEdited": false,
-        "review": "Gostei muito da praticidade e rapidez no seu uso.",
-        "rating": 5,
-        "date": "2021-03-01 18:15:52",
-        "userName": "Delay2013"
-    },
-    {
-        "title": "Avaliação XP",
+        },
         "isEdited": true,
-        "review": "Muito bom, pratico e fácil !",
+        "userName": "nsihwgwwkkxnxkdkcmjens",
+        "review": "MANO DO CÉU A ÚLTIMA ATUALIZAÇÃO FICOU ANINAL!!!! Perda e lucros on-line pqp MUUTOOOO BOM!!!",
+        "date": "2021-03-01 19:35:56",
+        "title": "NOVA ATUALIZAÇÃO"
+    },
+    {
         "rating": 5,
-        "date": "2021-03-01 18:00:17",
-        "userName": "arturcnunes",
+        "isEdited": false,
+        "userName": "hermanschlickmann",
+        "review": "Muito bom mesmo.",
+        "date": "2021-03-01 19:19:52",
+        "title": "Excelente!"
+    },
+    {
+        "rating": 5,
+        "isEdited": false,
+        "userName": "Delay2013",
+        "review": "Gostei muito da praticidade e rapidez no seu uso.",
+        "date": "2021-03-01 18:15:52",
+        "title": "Dashboard dos investidores"
+    },
+    {
+        "rating": 5,
         "developerResponse": {
             "id": 17656225,
             "body": "Ficamos super felizes em saber que você gostou da experiência! Conte com a gente 😉",
             "modified": "2020-09-02T19:49:04Z"
-        }
-    },
-    {
-        "title": "App cada dia melhor",
-        "isEdited": false,
-        "review": "Bastante intuitivo, fácil de utilizar e buscar as opções de investimento e com medidas de segurança cada vez mais fortes.",
-        "rating": 5,
-        "date": "2021-03-01 16:33:34",
-        "userName": "Ricsicil"
-    },
-    {
-        "title": "Confiável",
-        "isEdited": false,
-        "review": "Também é informativo e didático",
-        "rating": 5,
-        "date": "2021-03-01 15:03:32",
-        "userName": "sbdresch"
-    },
-    {
-        "title": "Prático e fácil",
+        },
         "isEdited": true,
-        "review": "Totalmente dentro das expectativas de um banco moderno",
+        "userName": "arturcnunes",
+        "review": "Muito bom, pratico e fácil !",
+        "date": "2021-03-01 18:00:17",
+        "title": "Avaliação XP"
+    },
+    {
         "rating": 5,
-        "date": "2021-03-01 14:47:58",
-        "userName": "PLeClark",
+        "isEdited": false,
+        "userName": "Ricsicil",
+        "review": "Bastante intuitivo, fácil de utilizar e buscar as opções de investimento e com medidas de segurança cada vez mais fortes.",
+        "date": "2021-03-01 16:33:34",
+        "title": "App cada dia melhor"
+    },
+    {
+        "rating": 5,
+        "isEdited": false,
+        "userName": "sbdresch",
+        "review": "Também é informativo e didático",
+        "date": "2021-03-01 15:03:32",
+        "title": "Confiável"
+    },
+    {
+        "rating": 5,
         "developerResponse": {
             "id": 20865136,
             "body": "Ficamos muito agradecidos com esse feedback. Continue aproveitando essa experiência com a XP 😉🧡",
             "modified": "2021-02-04T20:42:10Z"
-        }
+        },
+        "isEdited": true,
+        "userName": "PLeClark",
+        "review": "Totalmente dentro das expectativas de um banco moderno",
+        "date": "2021-03-01 14:47:58",
+        "title": "Prático e fácil"
     },
     {
-        "title": "Resolvo o que preciso",
-        "isEdited": true,
-        "review": "Recomendo.",
         "rating": 5,
-        "date": "2021-03-01 13:53:10",
-        "userName": "Favaretto1982",
         "developerResponse": {
             "id": 20166915,
             "body": "Que ótimo em saber isso. Conte sempre com a gente 💛🖤🚀",
             "modified": "2021-01-04T14:46:25Z"
-        }
+        },
+        "isEdited": true,
+        "userName": "Favaretto1982",
+        "review": "Recomendo.",
+        "date": "2021-03-01 13:53:10",
+        "title": "Resolvo o que preciso"
     },
     {
-        "title": "Sensacional",
-        "isEdited": true,
-        "review": "Evoluindo a cada dia, o cartão de crédito está muito bom",
         "rating": 5,
-        "date": "2021-03-01 12:36:54",
-        "userName": "hsato92",
         "developerResponse": {
             "id": 19806429,
             "body": "Que ótimo que está gostando, ficamos muito felizes! Conte sempre com a gente 💛🖤🚀",
             "modified": "2020-12-16T13:21:21Z"
-        }
+        },
+        "isEdited": true,
+        "userName": "hsato92",
+        "review": "Evoluindo a cada dia, o cartão de crédito está muito bom",
+        "date": "2021-03-01 12:36:54",
+        "title": "Sensacional"
     },
     {
-        "title": "OPINIÃO",
-        "isEdited": true,
-        "review": "É o melhor APP de investimentos do Brasil. Precisa unificar os 2 APP para simplificar mais.",
         "rating": 5,
-        "date": "2021-02-28 11:05:26",
-        "userName": "BUKOS.",
         "developerResponse": {
             "id": 18083355,
             "body": "Olá! Que alegre receber seu comentário, ficamos felizes e estamos evoluindo a cada dia para oferecer a melhor experiência 😉",
             "modified": "2020-09-24T20:15:05Z"
-        }
+        },
+        "isEdited": true,
+        "userName": "BUKOS.",
+        "review": "É o melhor APP de investimentos do Brasil. Precisa unificar os 2 APP para simplificar mais.",
+        "date": "2021-02-28 11:05:26",
+        "title": "OPINIÃO"
     },
     {
-        "title": "XP",
-        "isEdited": false,
-        "review": "Excelente aplicativo!",
         "rating": 5,
-        "date": "2021-02-09 14:08:22",
-        "userName": "Aval_123",
         "developerResponse": {
             "id": 20999766,
             "body": "Ficamos muito agradecidos com esse feedback. Continue aproveitando essa experiência com a XP 😉🖤",
             "modified": "2021-02-11T13:51:50Z"
-        }
+        },
+        "isEdited": false,
+        "userName": "Aval_123",
+        "review": "Excelente aplicativo!",
+        "date": "2021-02-09 14:08:22",
+        "title": "XP"
     },
     {
-        "title": "Limitado e com bugs",
-        "isEdited": false,
-        "review": "O login sempre está com problemas, sendo impossível fazer login. Quase todos os dias tem esse problema. Inclusive apresenta falhas ao carrega o teclado virtual. O app falta amadurecer, é bem limitado e com poucos recursos, precisando sempre acessar o site para a maioria dos recursos. App nota 1. Mas a XP é nota máxima!",
         "rating": 1,
+        "isEdited": false,
+        "userName": "Fdmartins",
+        "review": "O login sempre está com problemas, sendo impossível fazer login. Quase todos os dias tem esse problema. Inclusive apresenta falhas ao carrega o teclado virtual. O app falta amadurecer, é bem limitado e com poucos recursos, precisando sempre acessar o site para a maioria dos recursos. App nota 1. Mas a XP é nota máxima!",
         "date": "2021-02-25 16:26:42",
-        "userName": "Fdmartins"
+        "title": "Limitado e com bugs"
     },
     {
-        "title": "Um dos melhores app de banco",
-        "isEdited": false,
-        "review": "Bom aplicativo",
         "rating": 5,
-        "date": "2021-02-09 14:00:57",
-        "userName": "aarjkj",
         "developerResponse": {
             "id": 20999752,
             "body": "Olá, ficamos felizes que gostou! Agradecemos o feedback 🖤🚀",
             "modified": "2021-02-11T13:51:12Z"
-        }
+        },
+        "isEdited": false,
+        "userName": "aarjkj",
+        "review": "Bom aplicativo",
+        "date": "2021-02-09 14:00:57",
+        "title": "Um dos melhores app de banco"
     },
     {
-        "title": "XP é prático",
-        "isEdited": true,
-        "review": "Muito bom",
         "rating": 5,
-        "date": "2021-02-09 13:26:03",
-        "userName": "Gil Az",
         "developerResponse": {
             "id": 20276090,
             "body": "Que bom que gostou, Gil! Ficamos muito felizes! 😊",
             "modified": "2021-01-08T21:50:54Z"
-        }
+        },
+        "isEdited": true,
+        "userName": "Gil Az",
+        "review": "Muito bom",
+        "date": "2021-02-09 13:26:03",
+        "title": "XP é prático"
     }
 ]
